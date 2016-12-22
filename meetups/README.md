@@ -9,7 +9,9 @@ Tarragona Developers
 
 # Meetups
 
-- [October 25th, 2016](http://tgndevs.github.io/slides/meetups/20161026)
+- [December 22nd, 2016](http://tgndevs.github.io/slides/meetups/20161222)
+- [November 24th, 2016](http://tgndevs.github.io/slides/meetups/20161124)
+- [October 26th, 2016](http://tgndevs.github.io/slides/meetups/20161026)
 - [September 28th, 2016](http://tgndevs.github.io/slides/meetups/20160928)
-- [June 22th, 2016](http://tgndevs.github.io/slides/meetups/20160622)
+- [June 22nd, 2016](http://tgndevs.github.io/slides/meetups/20160622)
 - [May 25th, 2016](http://tgndevs.github.io/slides/meetups/20160525)
