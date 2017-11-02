@@ -1,15 +1,10 @@
 # Tarragona Developer Slides
 
-In this repo, you can find all the slides we are using throughout
-our meetings.
-
-Use them, share them, enjoy them!
-
-Tarragona Developers
-
-# Meetups
+You can find here all the slides we are using throughout
+our meetings. Use them, share them, enjoy them!
 
 - [November 2nd, 2017](http://tgndevs.github.io/slides/meetups/20171102)
+- [June 7th, 2017](http://tgndevs.github.io/slides/meetups/20170607)
 - [March 29th, 2017](http://tgndevs.github.io/slides/meetups/20170329)
 - [January 17th, 2017](http://tgndevs.github.io/slides/meetups/20170117)
 - [December 22nd, 2016](http://tgndevs.github.io/slides/meetups/20161222)
