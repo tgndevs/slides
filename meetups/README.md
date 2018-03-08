@@ -3,6 +3,8 @@
 You can find here all the slides we are using throughout
 our meetings. Use them, share them, enjoy them!
 
+- [March 8th, 2018](http://tgndevs.github.io/slides/meetups/20180308)
+- [January 25th, 2018](http://tgndevs.github.io/slides/meetups/20180125)
 - [November 2nd, 2017](http://tgndevs.github.io/slides/meetups/20171102)
 - [June 7th, 2017](http://tgndevs.github.io/slides/meetups/20170607)
 - [March 29th, 2017](http://tgndevs.github.io/slides/meetups/20170329)
