@@ -1,0 +1,28 @@
+#!/bin/bash
+
+echo "
+<h1>Tarragona Developer Slides</h1>
+
+<p>You can find here all the slides we are using throughout our meetings.
+<p> Use them, share them, enjoy them!
+</p>
+
+<ul>
+" > index.html
+
+cd meetups
+meetups=$(ls -d 20*)
+cd .. 
+
+for meetup in $meetups ; do
+
+  formatted_date=$(LANG=en_us_UTF8; date -d "$meetup" "+%B %d, %Y")
+  echo "<li><a href=\"http://tgndevs.github.io/slides/meetups/$meetup/\">$formatted_date</a></li>" >> index.html
+
+done
+
+echo "
+</ul>
+
+Tarragona Developers Meetup
+" >> index.html
