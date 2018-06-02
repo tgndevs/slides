@@ -11,7 +11,7 @@ echo "
 " > index.html
 
 cd meetups
-meetups=$(ls -d 20*)
+meetups=$(ls -d 20* | sort -r)
 cd .. 
 
 for meetup in $meetups ; do
